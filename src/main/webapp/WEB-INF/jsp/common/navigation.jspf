@@ -1,7 +1,7 @@
 
 <nav role="navigation" class="navbar navbar-default">
 	<div class="">
-		<a href="https://www.google.com" class="navbar-brand">Home</a>
+		<a href="https://www.google.com" class="navbar-brand">Logoff</a>
 	</div>
 	<div class="navbar-collapse">
 		<ul class="nav navbar-nav">
